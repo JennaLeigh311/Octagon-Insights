@@ -8,6 +8,23 @@ import Accessibility from "@/components/accessibility"
 import ColorOptions from "@/components/color-options"
 import Footer from "@/components/footer"
 
+// Made by Jenna Bunescu
+
+// sources: https://medium.com/2359media/why-react-classnames-is-a-lifesaver-and-how-you-should-use-it-if-you-arent-already-b25a44ed5603
+// https://react.dev/learn/importing-and-exporting-components
+// https://react.dev/learn/typescript
+// https://nextjs.org/docs/app/getting-started/server-and-client-components
+
+// for more of the UI with tailwindcss:
+// https://tailwindcss.com/docs/display
+// https://tailwindcss.com/docs/padding
+// https://tailwindcss.com/docs/box-shadow
+// https://tailwindcss.com/docs/responsive-design
+// https://tailwindcss.com/docs/border-radius
+
+// some help from AI
+
+
 export default function Home() {
   return (
     <main className="overflow-x-hidden bg-background">

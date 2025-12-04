@@ -22,7 +22,7 @@ import Footer from "@/components/footer"
 // https://tailwindcss.com/docs/responsive-design
 // https://tailwindcss.com/docs/border-radius
 
-// some help from AI
+// some help from AI with the configuration
 
 
 export default function Home() {
